@@ -8,7 +8,7 @@ A website that showcases my skills.
 * CSS
 
 ## Website
-https://github.com/Psyriel/profile
+https://psyriel.github.io/
 
 ## Contribution
 Made with ❤️ by Jeremy White
